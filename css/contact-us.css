@@ -225,7 +225,6 @@ h2 {
 }
 
 form {
-    border: 1px solid var(--blue, #06F);
     background: var(--white, #FFF);
     position: absolute;
 }
